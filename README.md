@@ -3,7 +3,7 @@
 ## 1. Description
 freeCodeCamp project. This is a basic photo gallery template webpage.
 
-[DIRECT LINK](https://cbushehry.github.io/cat-photo-app/)
+[DIRECT LINK](https://cbushehry.github.io/photo-gallery/)
 
 ## 2. Features
  * Nine cat photos in a 3x3 grid
